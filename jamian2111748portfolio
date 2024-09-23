@@ -1,0 +1,257 @@
+2111748_IA2/
+│
+├── Codes/
+│   ├── index.html
+│   ├── professional.html
+│   ├── personality.html
+│   ├── personal-development.html
+│   ├── storyboard.html
+│   ├── references.html
+│   └── styles.css
+│
+└── Assets/
+    ├── images/
+    │   ├── profile.jpg
+    ├── videos/
+    └── audio/
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Portfolio – Jamian cummings</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <header>
+            <h1>Welcome to My Portfolio</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="professional.html">Professional</a></li>
+                    <li><a href="personality.html">Personality</a></li>
+                    <li><a href="personal-development.html">Personal Development</a></li>
+                    <li><a href="storyboard.html">Storyboard</a></li>
+                    <li><a href="references.html">References</a></li>
+                </ul>
+            </nav>
+        </header>
+    
+        <main>
+            <section>
+                <h2>About Me</h2>
+                <p>Hello! My name is [Jamian cummings]. I'm currently studying [ cyber security] at [University of technology jamaica]. Welcome to my portfolio where I share my education, hobbies, and career aspirations.</p>
+            </section>
+    
+            <section id="personal-info">
+                <h2>Personal Info</h2>
+                <img src="../Assets/images/profile.jpg" alt="My Profile Picture" width="200">
+                <p>
+                    <a href="mailto:jamiancummings13@gmail.com?subject=ID1234567">Click here to send me an email!</a>
+                </p>
+            </section>
+    
+            <section>
+                <h2>External Links</h2>
+                <p>Check out my <a href="https://www.linkedin.com" target="_blank">LinkedIn profile</a>.</p>
+            </section>
+        </main>
+    
+        <footer>
+            <p>&copy; 2024 [Jamian cummings]. All rights reserved.</p>
+        </footer>
+    </body>
+    </html>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional – jamian cummings</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Professional</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="professional.html">Professional</a></li>
+                <li><a href="personality.html">Personality</a></li>
+                <li><a href="personal-development.html">Personal Development</a></li>
+                <li><a href="storyboard.html">Storyboard</a></li>
+                <li><a href="references.html">References</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Curriculum Vitae</h2>
+            <p>This is a mirror of my CV, where I share my education, experience, and skills.</p>
+            <ul>
+                <li>Degree: [Computer networking and security]</li>
+                <li>Future Aspirations: [creating a safer online presence for everyone]</li>
+                <li>Skills: [camping, swimming, interpersonal]</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Vision and Mission Statements</h2>
+            <p><strong>Vision:</strong> I aim to become a Network architect in the next five years, contributing to impactful projects in the private sector.</p>
+            <p><strong>Mission:</strong> I am currently focused on building the necessary skills and knowledge required to excel in the field of [technology].</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 [Jamian cummings]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personality – jamian cummings</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Personality</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="professional.html">Professional</a></li>
+                <li><a href="personality.html">Personality</a></li>
+                <li><a href="personal-development.html">Personal Development</a></li>
+                <li><a href="storyboard.html">Storyboard</a></li>
+                <li><a href="references.html">References</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Strongest Trait</h2>
+            <p>My strongest trait is [adaptability], which helps me stay focused and excel in my academic work.</p>
+        </section>
+
+        <section>
+            <h2>My Hero</h2>
+            <p>My hero is [Ada lovelace]. She inspires me because [despite societal constraints, she pursued her interest and made significant contributions, demonstrating perseverance]. Here's a favorite quote from her: "[That brain of mine is something more than merely mortal; as time will show]".</p>
+        </section>
+
+        <section>
+            <h2>Personality Test</h2>
+            <p>Here’s a screenshot of my personality test results:</p>
+            <img src="../Assets/images/personality-test.png" alt="Personality Test Screenshot" width="400">
+            <p>Reflection: I believe the test is [not valid] because [a person personality is subject to change at any given time and i took the test two times and got two different personality results].</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 [jamian cummings]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Development – jamian cummings</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Personal Development</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="professional.html">Professional</a></li>
+                <li><a href="personality.html">Personality</a></li>
+                <li><a href="personal-development.html">Personal Development</a></li>
+                <li><a href="storyboard.html">Storyboard</a></li>
+                <li><a href="references.html">References</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Twelve Pillars Reflection</h2>
+            <p>After reading Chapters 4–7 of the "Twelve Pillars" by Jim Rohn and Chris Widener, I have learned about [personal responsibility]. I will apply this to my life by [prioritizing self-discipline and setting clear goals].</p>
+        </section>
+
+        <section>
+            <h2>Degree Program</h2>
+            <p>I am working towards a degree in [cyber security]. Two key skills I have acquired so far are [hmtl] and [python].</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 [jamian cummings]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+/* Basic Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+h2 {
+    color: #333;
+}
+
+a {
+    color: #0066cc;
+}
+
+img {
+    border-radius: 10px;
+}
